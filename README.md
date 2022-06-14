@@ -1,12 +1,13 @@
-<h1>About Me</h1>
-<code>👋 $ Hi, I’m @ncoderlk.</code><br>
-<code>👀 $ I’m interested in Programming.</code><br>
-<code>🌱 I’m currently learning in Mahanama College.</code><br>
-<code>📫 $ 404 Page Not Found---</code><br>
-<code>And I'm a linux User</code><br>
-<code><del>Sithika Dangampala</del></code><br>
+<h1>Hi, I'm Sithika</h1>
+<h3>Working as a Programmer</h3>
+<p>🏷️I'm 14 years old and I'm currently learning in Mahanama College Colombo 03;</p>
+<img src="https://cdn-icons-png.flaticon.com/512/3798/3798302.png" width=100>
+<hr width=400>
+<code>@nodejs</code><br>
+<code>@discordjs</code><br>
+<code>@w3js</code><br><br>
+<hr width=400><br><br>
 
-<!---
-ncoderlk/ncoderlk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/970376745054240768)](https://discord.com/users/970376745054240768)
