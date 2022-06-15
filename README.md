@@ -1,5 +1,5 @@
 <h1>Hi, I'm Sithika</h1>
-<img src="https://cdn-icons-png.flaticon.com/512/3798/3798302.png" width=100>
+<img src="https://cdn-icons-png.flaticon.com/512/3798/3798302.png" width=90>
 <hr width=400>
 <code>@nodejs</code><br>
 <code>@discordjs</code><br>
