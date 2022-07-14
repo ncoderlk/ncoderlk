@@ -1,6 +1,6 @@
 {
-  "name": "mypro",
-  "version": "1.0.0",
+  "name": "MyPortfolio",
+  "version": "1.0.1",
   "description": "My Personal Portfolio",
   "main": "index.html",
   "scripts": {
