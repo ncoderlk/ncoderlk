@@ -321,7 +321,7 @@
         .copyright-text {
 
             position: absolute;
-            right: -30px;
+            right: -200px;
             top: 50%;
             font-size: 15px;
             color: var(--text-black-800);
