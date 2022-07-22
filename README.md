@@ -5,8 +5,8 @@
 <code>@discordjs</code><br>
 <code>@animejs</code><br><br>
 <hr width=400><br><br>
-<a href="https://ncoderlk.vercel.app" target="blank">My Porfolio New</a><br>
-<a href="https://sithikapethmin.w3spaces.com" target="blank">My Porfolio OLD</a>
+
+<a href="https://sithikapethmin.w3spaces.com" target="blank"><button>See My Portfolio</button></a>
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/970376745054240768)](https://discord.com/users/970376745054240768)
